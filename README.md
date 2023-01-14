@@ -7,6 +7,5 @@ Light CSV Splitter
 
 Using:
 
-pip install PyQt5
-
-python main.py
+```pip install PyQt5
+python main.py```
